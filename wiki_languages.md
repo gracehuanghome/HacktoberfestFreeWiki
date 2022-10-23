@@ -5,11 +5,16 @@ This contains a list of wiki for different programming languages
 ### Index
 
 * [Ada](#ada)
+* [C](#C)
 * [R](#r)
 
 ### Ada
 
 * [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
+
+### C
+
+* [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
 
 ### R
 
